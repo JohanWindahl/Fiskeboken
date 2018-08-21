@@ -9,6 +9,6 @@ Last assignment in course: Development of Mobile Applications - 5DV155
 
 Here are some snapshots of the application.
 
-![dm](https://github.com/JohanWindahl/Fiskeboken/blob/master/log.png)
-![dm](https://github.com/JohanWindahl/Fiskeboken/blob/master/map.png)
-![dm](https://github.com/JohanWindahl/Fiskeboken/blob/master/add.png)
+![dm](https://github.com/JohanWindahl/Fiskeboken/blob/master/png/log.png)
+![dm](https://github.com/JohanWindahl/Fiskeboken/blob/master/png/map.png)
+![dm](https://github.com/JohanWindahl/Fiskeboken/blob/master/png/add.png)
