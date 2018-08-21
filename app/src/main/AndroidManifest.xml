@@ -29,8 +29,7 @@
         </activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCeRbGbpPQ-fRYFHyi_EHApel374a49XZw" />
-            <!-->android:value="AIzaSyAjox71Gadtdje7jXFC21h8NusE4ICubhc" /> <!-->
+            android:value="nopp" />
 
 
 
